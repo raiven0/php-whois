@@ -1,1 +1,1 @@
-# php-whois
+# Simple PHP Whois
