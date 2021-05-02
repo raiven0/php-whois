@@ -10,3 +10,4 @@
 
 - It houses 193 servers. / 193 tane sunucu barındırmaktadır.
 - System language is Turkish / Sistem dili Türkçe'dir
+- Open Source Codes - Açık kaynak kodları
