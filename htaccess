@@ -1,0 +1,6 @@
+Options +FollowSymlinks
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+
+RewriteRule ^/*$ index.php [NC]
+RewriteRule ^whois*$ src/system/whois.php [NC]
