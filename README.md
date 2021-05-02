@@ -1,5 +1,7 @@
 <img src="https://ctingg.com/assets/img/ctingg_logo.png" align="right" />
 
+# Simple PHP Whois
+
 > It is ideal in terms of design and has easy operation. / Tasarım açısından idealdir ve kullanımı kolaydır. 
 
 > It has a simple interface. / Basit bir arayüze sahiptir
