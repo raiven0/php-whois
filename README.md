@@ -1,4 +1,4 @@
-<img src="https://ctingg.com/assets/img/ctingg_logo.png" align="right" />
+<a href="https://ctingg.com" target="_blank"><img src="https://ctingg.com/assets/img/ctingg_logo.png" align="right" /></a>
 
 # Simple PHP Whois
 
